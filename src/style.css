@@ -1,0 +1,19 @@
+.bg-lights{
+    background-color: #093545;
+    height: 100vh;
+}
+.heading-h3{
+    text-align: center;
+    color: #fff;
+    font-weight: 500 !important;
+}
+.heading-p{
+    text-align: center;
+    color: #fff !important;
+}
+.rounded-pill {
+ border-radius: 0px
+}
+.valid-txt{
+    color: red;
+}
